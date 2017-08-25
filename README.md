@@ -18,6 +18,6 @@ touch MOUNT_CHECK
 
      and adding 
 
-     * * * * * /root/check_and_remount_home.sh
+     `* * * * * /root/check_and_remount_home.sh`
 
 - that's all.
