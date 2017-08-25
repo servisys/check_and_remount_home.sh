@@ -14,10 +14,10 @@ touch MOUNT_CHECK
 - if all is gon ok, and file MOUNT_CHECK is present go on
 - setup a cronjob every minute wit command
 
-`crontab -e`
+     `crontab -e`
 
-and adding 
+      and adding 
 
-`* * * * * /root/check_and_remount_home.sh`
+      `* * * * * /root/check_and_remount_home.sh`
 
 - that's all.
