@@ -16,7 +16,7 @@ touch MOUNT_CHECK
 
      `crontab -e`
 
-      and adding 
+     and adding 
 
       `* * * * * /root/check_and_remount_home.sh`
 
