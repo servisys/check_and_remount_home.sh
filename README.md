@@ -12,7 +12,7 @@ Very simple script that can be surely improved.
 - after succesfull mount, create an empty file named MOUNT_CHECK with the command
 touch MOUNT_CHECK
 - if all is gon ok, and file MOUNT_CHECK is present go on
-- setup a cronjob every minute wit command
+- setup a cronjob every minute with command
 
      `crontab -e`
 
